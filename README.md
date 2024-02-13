@@ -1,7 +1,7 @@
 This is a weather application built in Android Studio, using Kotlin and Jetpack compose
 The app fetches weather and forecast from the openweather api (https://home.openweathermap.org/).
 
-The app asks the user permission to access the devices location on  startup, once provided the weather and forecast data for the current location is loaded.
+The app asks the user permission to access the device's location on  startup, once provided the weather and forecast data for the current location is loaded.
 
 <p align="center">
   <img src="https://github.com/Samhitha-2001/Weather-app-in-Android-using-Kotlin-and-Jetpack-compose/blob/main/screenshots/First%20screen.png" width="250" height="400" />
@@ -34,4 +34,22 @@ The search button on the Menu opens a textfield. On entering the city name in th
   <img src="https://github.com/Samhitha-2001/Weather-app-in-Android-using-Kotlin-and-Jetpack-compose/blob/main/screenshots/Search%20city.png" width="250" height="400" />
   -->
   <img src="https://github.com/Samhitha-2001/Weather-app-in-Android-using-Kotlin-and-Jetpack-compose/blob/main/screenshots/Add%20to%20favs%20prompt.png" width="250" height="400" />
+  main/screenshots/Search%20city.png" width="250" height="400" />
+  -->
+  <img src="https://github.com/Samhitha-2001/Weather-app-in-Android-using-Kotlin-and-Jetpack-compose/blob/main/screenshots/LoadFavCity.jpg" width="250" height="400" />
 </p>
+
+The other button on the menu was Favourite cities, which navigates to a screen that has a list of all your favourite cities. 
+Clicking on a particular city loads data for that city.
+Also, room database is used in the project to persist the favourite city list.
+
+<p align="center">
+  <img src="https://github.com/Samhitha-2001/Weather-app-in-Android-using-Kotlin-and-Jetpack-compose/blob/main/screenshots/Fav%20cities.png" width="250" height="400" />
+</p>
+
+Let us tap on Mangalore.
+
+<p align="center">
+  <img src="https://github.com/Samhitha-2001/Weather-app-in-Android-using-Kotlin-and-Jetpack-compose/blob/main/screenshots/Tap%20fav%20city.png" width="250" height="400" />
+</p>
+

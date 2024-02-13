@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">WeatherApplication</string>
+    <string name="show_more">See more</string>
+    <string name="show_less">See less</string>
+    <string name="added_to_favourite">Added to favourite</string>
+    <string name="add_to_favourite">Add to favourite</string>
+    <string name="favourite_cities">Favourite Cities</string>
+    <string name="background">Background</string>
+</resources>

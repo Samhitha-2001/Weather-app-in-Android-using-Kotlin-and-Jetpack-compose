@@ -34,7 +34,6 @@ The search button on the Menu opens a textfield. On entering the city name in th
   <img src="https://github.com/Samhitha-2001/Weather-app-in-Android-using-Kotlin-and-Jetpack-compose/blob/main/screenshots/Search%20city.png" width="250" height="400" />
   -->
   <img src="https://github.com/Samhitha-2001/Weather-app-in-Android-using-Kotlin-and-Jetpack-compose/blob/main/screenshots/Add%20to%20favs%20prompt.png" width="250" height="400" />
-  main/screenshots/Search%20city.png" width="250" height="400" />
   -->
   <img src="https://github.com/Samhitha-2001/Weather-app-in-Android-using-Kotlin-and-Jetpack-compose/blob/main/screenshots/LoadFavCity.jpg" width="250" height="400" />
 </p>

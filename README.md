@@ -15,6 +15,4 @@ Clicking on the see more button opens a dropdown.
 
 Scrolling further down in the screen reveals the forecast section, displayd as a scrollable row.
 
-<p align="center">
-  <video src="https://github.com/Samhitha-2001/Weather-app-in-Android-using-Kotlin-and-Jetpack-compose/blob/main/screenshots/ForecastRow.webm" width="250" height="400" />
-</p>
+https://github.com/Samhitha-2001/Weather-app-in-Android-using-Kotlin-and-Jetpack-compose/blob/main/screenshots/ForecastRow.webm
